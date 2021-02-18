@@ -1,0 +1,61 @@
+.Heading
+{
+    width: 97%;
+    text-align: left;
+    font-family: 'Yusei Magic', sans-serif;
+    margin-top: 5px ;
+}
+
+.Heading h3
+{
+    display: inline;
+
+}
+
+.Heading button
+{
+    float: right;
+    border: 2px solid wheat;
+}
+
+.Big_Image
+{
+    width: 90%;
+    box-shadow: 2px 2px 18px black;
+    margin-top: 5px ;
+
+}
+
+#Play_Button , #Status
+{
+    font-size: 22px;
+    font-family: 'Yusei Magic', sans-serif;
+    box-shadow: 2px 2px 18px black;
+}
+
+h4
+{
+    background-color: black;
+    color:whitesmoke;
+    line-height: 2;
+    margin: 0px;
+}
+
+.modal-dialog
+{
+    width: 90%;
+}
+
+.Instruction_IMG
+{
+    display: inline-block;
+    width: 45%;
+}
+
+Video
+{
+    background:url(game_console.png);
+    background-size: cover;
+    background-position:center;
+    padding: 25px;
+}
